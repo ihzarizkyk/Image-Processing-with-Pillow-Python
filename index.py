@@ -1,3 +1,7 @@
+'''
+Author : Mochammad Ihza Rizky Karim
+'''
+
 from PIL import Image
 
 #untuk membuka gambar
